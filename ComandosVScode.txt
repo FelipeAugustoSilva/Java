@@ -1,0 +1,1 @@
+CTRL + SHIFT + P = Inicia uma projeto java
