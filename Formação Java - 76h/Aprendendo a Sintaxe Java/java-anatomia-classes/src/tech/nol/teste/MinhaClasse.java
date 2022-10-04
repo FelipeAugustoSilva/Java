@@ -1,3 +1,4 @@
+package tech.nol.teste;
 public class MinhaClasse {
     public static void main(String[] args) {
 
